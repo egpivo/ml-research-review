@@ -1,3 +1,5 @@
+## Recsys
+
 |Year| Title      | Author |Remark|
 | :---        |    :----:   |   :---:| :---:|
 |2014| [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf) | Perozzi & Al-Rfou & Skiena |[code](https://github.com/phanein/deepwalk)|
@@ -7,3 +9,9 @@
 |2018| [Inductive Representation Learning on Large Graphs](https://arxiv.org/pdf/1706.02216.pdf) | Hamilton & Ying & [Leskovec](https://cs.stanford.edu/people/jure/)  ||
 |2020| [Large Scale Product Graph Construction for Recommendation in E-commerce](https://arxiv.org/pdf/2010.05525.pdf) | Yang et.al  ||
 |2021| [RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms](https://arxiv.org/pdf/2011.01731.pdf) | Zhao et.al  ||
+
+## ML Review
+
+|Year| Title      | Author |Remark|
+| :---        |    :----:   |   :---:| :---:|
+|2010| [Active Learning Literature Survey](https://burrsettles.com/pub/settles.activelearning.pdf) | Burr Settles ||
