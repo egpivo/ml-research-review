@@ -7,6 +7,8 @@
 |2016| [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf) | [Grover](https://aditya-grover.github.io/) & [Leskovec](https://cs.stanford.edu/people/jure/)  |[code](https://github.com/aditya-grover/node2vec)|
 |2017| [Semi-Supervised Classification with Graph Convolution Networks](https://arxiv.org/pdf/1609.02907.pdf) |Kipf & Welling||
 |2018| [Inductive Representation Learning on Large Graphs](https://arxiv.org/pdf/1706.02216.pdf) | Hamilton & Ying & [Leskovec](https://cs.stanford.edu/people/jure/)  ||
+|2019| [Deep Learning based Recommender System: A Survey and New Perspectives
+](https://arxiv.org/pdf/1707.07435.pdf) | Zhang, et al ||
 |2020| [Large Scale Product Graph Construction for Recommendation in E-commerce](https://arxiv.org/pdf/2010.05525.pdf) | Yang et.al  ||
 |2021| [RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms](https://arxiv.org/pdf/2011.01731.pdf) | Zhao et.al  ||
 
